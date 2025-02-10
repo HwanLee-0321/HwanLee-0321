@@ -1,25 +1,27 @@
-<h1 align="center">Hi 👋, I'm Jae Hwan Lee</h1>
-<h3 align="center">A Passionate Developer from South Korea</h3>
+<h1>Hi 👋, I'm Jae Hwan Lee</h1>
+<h3>A Passionate Developer from South Korea</h3>
 
-<p align="center">
+<img src="https://criminal-vivyanne-lucidus-346ca075.koyeb.app/lucidus/card_v1?theme=dark&name=LeeJaeHwan&job=Software%20Engineer%20-%20Associate&company=Searching...%20%3A(&address=Koera%2C%20Gwangju&about=A%20Passionate%20Developer&email=ghksdl413%40naver.com&linkedin=https%3A%2F%2Fvelog.io%2F%40hwan_lee%2Fposts" alt="Business Card">
+
+<p>
   🌱 Currently learning <strong>Database (SQL, MariaDB, Docker)</strong><br>
-  🔭 Working on <strong>Preparing...</strong><br>
+  🔝 Working on <strong>Preparing...</strong><br>
   👯 Looking to collaborate on <a href="https://github.com/diadice123/Project_Everytime" target="_blank"><strong>Web Crawling Project</strong></a><br>
-  📫 Reach me at: <strong>ghksdl413@naver.com</strong>
+  📧 Reach me at: <strong>ghksdl413@naver.com</strong>
 </p>
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3>Connect with me:</h3>
+<p>
   <a href="https://instagram.com/lee._.ljh" target="_blank">Instagram</a> | 
   <a href="https://solved.ac/profile/ghksdl0321" target="_blank">Solved.ac Profile</a>
 </p>
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3>Languages and Tools:</h3>
+<p>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   </a>
@@ -60,11 +62,10 @@
 
 ---
 
-<h3 align="center">GitHub Stats:</h3>
-<p align="center">
+<h3>GitHub Stats:</h3>
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=hwanlee-jae&show_icons=true&locale=en" alt="hwanlee-jae GitHub Stats" />
 </p>
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hwanlee-jae&" alt="hwanlee-jae Streak Stats" />
 </p>
-
