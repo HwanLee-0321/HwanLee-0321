@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Jae Hwan Lee</h1>
+<h1>Hi 👋, I'm HwanLee/h1>
 <h3>A Passionate Developer from South Korea</h3>
 
 <img src="https://criminal-vivyanne-lucidus-346ca075.koyeb.app/lucidus/card_v1?theme=dark&name=LeeJaeHwan&job=Software%20Engineer%20-%20Associate&company=Searching...%20%3A(&address=Koera%2C%20Gwangju&about=A%20Passionate%20Developer&email=ghksdl413%40naver.com&linkedin=https%3A%2F%2Fvelog.io%2F%40hwan_lee%2Fposts" alt="Business Card">
@@ -61,11 +61,3 @@
 </p>
 
 ---
-
-<h3>GitHub Stats:</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=hwanlee-jae&show_icons=true&locale=en" alt="hwanlee-jae GitHub Stats" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hwanlee-jae&" alt="hwanlee-jae Streak Stats" />
-</p>
