@@ -3,11 +3,17 @@
 <head>
   <style>
     body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
       text-align: center;
     }
     img {
       display: block;
-      margin: 0 auto;
+      margin: auto;
+    }
+    p, h1, h3 {
+      text-align: center;
     }
   </style>
 </head>
@@ -20,7 +26,7 @@
 
 <p>
   🌱 Currently learning <strong>Database (SQL, MariaDB, Docker)</strong><br>
-  🔝 Working on <strong>Preparing...</strong><br>
+  🔽 Working on <strong>Preparing...</strong><br>
   👯 Looking to collaborate on <a href="https://github.com/diadice123/Project_Everytime" target="_blank"><strong>Web Crawling Project</strong></a><br>
   📧 Reach me at: <strong>ghksdl413@naver.com</strong>
 </p>
