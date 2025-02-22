@@ -1,4 +1,19 @@
-<h1>Hi 👋, I'm HwanLee/h1>
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      text-align: center;
+    }
+    img {
+      display: block;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Hi 👋, I'm HwanLee</h1>
 <h3>A Passionate Developer from South Korea</h3>
 
 <img src="https://criminal-vivyanne-lucidus-346ca075.koyeb.app/lucidus/card_v1?theme=dark&name=LeeJaeHwan&job=Software%20Engineer%20-%20Associate&company=Searching...%20%3A(&address=Koera%2C%20Gwangju&about=A%20Passionate%20Developer&email=ghksdl413%40naver.com&linkedin=https%3A%2F%2Fvelog.io%2F%40hwan_lee%2Fposts" alt="Business Card">
@@ -10,15 +25,14 @@
   📧 Reach me at: <strong>ghksdl413@naver.com</strong>
 </p>
 
----
+<hr>
 
 <h3>Connect with me:</h3>
 <p>
-  <a href="https://instagram.com/lee._.ljh" target="_blank">Instagram</a> | 
   <a href="https://solved.ac/profile/ghksdl0321" target="_blank">Solved.ac Profile</a>
 </p>
 
----
+<hr>
 
 <h3>Languages and Tools:</h3>
 <p>
@@ -60,4 +74,5 @@
   </a>
 </p>
 
----
+</body>
+</html>
