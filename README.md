@@ -6,9 +6,6 @@
 
 <img src="https://criminal-vivyanne-lucidus-346ca075.koyeb.app/lucidus/card_v1?theme=dark&name=LeeJaeHwan&job=Software%20Engineer%20-%20Associate&company=Searching...%20%3A(&address=Koera%2C%20Gwangju&about=A%20Passionate%20Developer&email=ghksdl413%40naver.com&linkedin=https%3A%2F%2Fvelog.io%2F%40hwan_lee%2Fposts" alt="Business Card">
 
-## 👯 Looking to Collaborate On
-<a href="https://github.com/diadice123/Project_Everytime"><strong>Web Crawling Project</strong></a>
-
 ## 📧 Reach Me At
  <strong>Email</strong>: ghksdl413@naver.com
 
