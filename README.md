@@ -44,9 +44,9 @@
 <h2>📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghksdl0321&show_icons=true&theme=radical" alt="ghksdl0321's github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ghksdl0321&show_icons=true&theme=radical" alt="HwanLee-0321's github stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghksdl0321&layout=compact&theme=radical" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HwanLee-0321&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
 
 ---
