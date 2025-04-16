@@ -1,20 +1,28 @@
 <div align="center">
 
-# Hi 👋, I'm HwanLee
+<h1>Hi 👋, I'm <span style="color: #4db6ac;">HwanLee</span></h1>
 
-## Programm Developer
+<h3>💻 Passionate and Curious Programm Developer</h3>
 
-## 📧 Reach Me At
- <strong>Email</strong>: ghksdl413@naver.com
-
----
-
-## 📌 Connect with Me
-<a href="https://solved.ac/profile/ghksdl0321">Solved.ac Profile</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome%20to%20My%20Profile!&fontSize=30&fontAlign=70&descAlign=80" alt="header"/>
 
 ---
 
-## 🛠 Languages and Tools
+<h2>📧 Reach Me At</h2>
+<p><strong>Email</strong>: <a href="mailto:ghksdl413@naver.com">ghksdl413@naver.com</a></p>
+
+---
+
+<h2>📌 Connect with Me</h2>
+<p>
+  <a href="https://solved.ac/profile/ghksdl0321" target="_blank">
+    <img src="https://img.shields.io/badge/Solved.ac-000000?style=for-the-badge&logo=solvedac&logoColor=white" alt="Solved.ac"/>
+  </a>
+</p>
+
+---
+
+<h2>🛠 Languages and Tools</h2>
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -30,5 +38,24 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
+
+---
+
+<h2>📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghksdl0321&show_icons=true&theme=radical" alt="ghksdl0321's github stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghksdl0321&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
+
+---
+
+<h2>🧠 My Interests</h2>
+<p>🔹 Backend Development | 🔹 System Programming | 🔹 Data Engineering | 🔹 DevOps | 🔹 Game Server Architecture</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
 
 </div>
