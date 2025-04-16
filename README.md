@@ -1,6 +1,8 @@
 <div align="center">
 
-<h1>Hi 👋, I'm <span style="color: #4db6ac;">HwanLee</span></h1>
+✨･ﾟ✧･ﾟ✧･ﾟ✧･ﾟ✧･ﾟ✧･ﾟ✨  
+<h1>Hi 👋, I'm <span style="color: #4db6ac;">HwanLee</span></h1>  
+✨･ﾟ✧･ﾟ✧･ﾟ✧･ﾟ✧･ﾟ✧･ﾟ✨  
 
 <h3>💻 Passionate and Curious Programm Developer</h3>
 
@@ -55,6 +57,14 @@
 <p>🔹 Backend Development | 🔹 System Programming | 🔹 Data Engineering | 🔹 DevOps | 🔹 Game Server Architecture</p>
 
 ---
+
+<h2>🌈 Favorite Quote</h2>
+<blockquote>"Code is like humor. When you have to explain it, it’s bad."</blockquote>
+
+---
+
+<h2>🌸 Thanks for Visiting!</h2>
+<p>︵‿︵‿︵‿︵‿︵‿︵‿︵<br/>🌟 Have a great coding day! 🌟<br/>︶‿︶‿︶‿︶‿︶‿︶‿︶</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
 
