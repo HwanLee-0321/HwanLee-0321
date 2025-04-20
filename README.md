@@ -19,6 +19,7 @@
 <p>
   <a href="https://solved.ac/profile/ghksdl0321" target="_blank">
     <img src="https://img.shields.io/badge/Solved.ac-000000?style=for-the-badge&logo=solvedac&logoColor=white" alt="Solved.ac"/>
+    [![[Solved.ac프로필](https://solved.ac/profile/ghksdl0321)](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
   </a>
 </p>
 
