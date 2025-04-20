@@ -16,12 +16,6 @@
 ---
 
 <h2>📌 Connect with Me</h2>
-<p>
-  <!-- Solved.ac Badge Link -->
-  <a href="https://solved.ac/profile/ghksdl0321" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Solved.ac-000000?style=for-the-badge&logo=solvedac&logoColor=white" alt="Solved.ac"/>
-  </a>
-
   <!-- Solved.ac Profile Stats Badge -->
   <a href="https://solved.ac/profile/ghksdl0321" target="_blank">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=ghksdl0321" alt="Solved.ac Profile"/>
