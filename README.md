@@ -19,6 +19,7 @@
   <!-- Solved.ac Profile Stats Badge -->
   <a href="https://solved.ac/profile/ghksdl0321" target="_blank">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=ghksdl0321" alt="Solved.ac Profile"/>
+    <img src="https://mazassumnida.wtf/api/generate_badge?dreamhack=늙고병든컴공에게졸업을" alt="DreamHack Profile"/>
   </a>
 </p>
 
