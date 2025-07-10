@@ -15,9 +15,6 @@
   <a href="https://solved.ac/profile/ghksdl0321" target="_blank">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=ghksdl0321" alt="Solved.ac Profile"/>
   </a>
-  <a href="https://dreamhack.io/users/늙고병든컴공에게졸업을" target="_blank">
-    <img src="https://mazassumnida.wtf/api/generate_badge?dreamhack=늙고병든컴공에게졸업을&theme=dark" alt="DreamHack Profile"/>
-  </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=HwanLee-0321&theme=radical&margin-w=5" alt="GitHub Trophies"/>
   </a>
