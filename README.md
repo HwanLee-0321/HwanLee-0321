@@ -1,8 +1,8 @@
 <div align="center">
 
-✨･ﾟ✧･ﾟ✧･ﾟ✧･ﾟ✧･ﾟ✧･ﾟ✨  
-<h1>Hi 👋, I'm <span style="color: #4db6ac;">HwanLee</span></h1>  
-✨･ﾟ✧･ﾟ✧･ﾟ✧･ﾟ✧･ﾟ✧･ﾟ✨  
+✨･ﾟ✧･ﾟ✧･ﾟ✧･ﾟ✧･ﾟ✧･ﾟ✨
+<h1>Hi 👋, I'm <span style="color: #4db6ac;">HwanLee</span></h1>
+✨･ﾟ✧･ﾟ✧･ﾟ✧･ﾟ✧･ﾟ✧･ﾟ✨
 
 <h3>💻 Passionate and Curious Programm Developer</h3>
 
@@ -10,16 +10,16 @@
 
 ---
 
-<h2>📧 Reach Me At</h2>
-<p><strong>Email</strong>: <a href="mailto:ghksdl413@naver.com">ghksdl413@naver.com</a></p>
-
----
-
 <h2>📌 Connect with Me</h2>
-  <!-- Solved.ac Profile Stats Badge -->
+<p>
   <a href="https://solved.ac/profile/ghksdl0321" target="_blank">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=ghksdl0321" alt="Solved.ac Profile"/>
-    <img src="https://mazassumnida.wtf/api/generate_badge?dreamhack=늙고병든컴공에게졸업을" alt="DreamHack Profile"/>
+  </a>
+  <a href="https://dreamhack.io/users/늙고병든컴공에게졸업을" target="_blank">
+    <img src="https://mazassumnida.wtf/api/generate_badge?dreamhack=늙고병든컴공에게졸업을&theme=dark" alt="DreamHack Profile"/>
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=HwanLee-0321&theme=radical&margin-w=5" alt="GitHub Trophies"/>
   </a>
 </p>
 
@@ -44,13 +44,20 @@
 
 ---
 
-<h2>📈 GitHub Stats</h2>
+<h2>📈 My GitHub Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HwanLee-0321&show_icons=true&theme=radical" alt="HwanLee-0321's github stats"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HwanLee-0321&layout=compact&theme=radical" alt="Top Langs"/>
+  <br/><br/>
+  <img src="https://github.com/HwanLee-0321/HwanLee-0321/blob/output/github-contribution-grid-snake.svg" alt="github-contribution-grid-snake">
 </p>
+
+---
+
+<h2>📧 Reach Me At</h2>
+<p><strong>Email</strong>: <a href="mailto:ghksdl413@naver.com">ghksdl413@naver.com</a></p>
 
 ---
 
@@ -58,14 +65,6 @@
 <p>🔹 Backend Development | 🔹 System Programming | 🔹 Data Engineering | 🔹 DevOps | 🔹 Game Server Architecture</p>
 
 ---
-
-<h2>🌈 Favorite Quote</h2>
-<blockquote>"Code is like humor. When you have to explain it, it’s bad."</blockquote>
-
----
-
-<h2>🌸 Thanks for Visiting!</h2>
-<p>︵‿︵‿︵‿︵‿︵‿︵‿︵<br/>🌟 Have a great coding day! 🌟<br/>︶‿︶‿︶‿︶‿︶‿︶‿︶</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
 
