@@ -48,7 +48,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HwanLee-0321&layout=compact&theme=radical" alt="Top Langs"/>
   <br/><br/>
-  <img src="https://github.com/HwanLee-0321/HwanLee-0321/blob/output/github-contribution-grid-snake.svg" alt="github-contribution-grid-snake">
 </p>
 
 ---
