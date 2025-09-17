@@ -9,8 +9,6 @@
 
   <h2>📌 Connect with Me</h2>
   <p>
-    <a href="mailto:ghksdl413@naver.com">
-      <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver"/>
     </a>
     <a href="https://solved.ac/profile/ghksdl0321" target="_blank">
       <img src="http://mazassumnida.wtf/api/generate_badge?boj=ghksdl0321" alt="Solved.ac Profile"/>
