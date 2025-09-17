@@ -50,8 +50,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HwanLee-0321&layout=compact&theme=radical" width="48%"/>
   </p>
 
-  ![snake gif](https://github.com/HwanLee-0321/HwanLee-0321/blob/output/github-contribution-grid-snake.svg)
-
   <p align="center">
     <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=HwanLee-0321&utm_content=farm">
       <img src="https://render.gitanimals.org/farms/HwanLee-0321" width="600" height="300" />
