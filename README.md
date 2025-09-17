@@ -1,11 +1,3 @@
-<div align="center">
-
-✨･ﾟ✧･ﾟ✧･ﾟ✧･ﾟ✧･ﾟ✧･ﾟ✨
-<h1>Hi 👋, I'm <span style="color: #4db6ac;">HwanLee</span></h1>
-✨･ﾟ✧･ﾟ✧･ﾟ✧･ﾟ✧･ﾟ✧･ﾟ✨
-
-<h3>💻 Passionate and Curious Programm Developer</h3>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome%20to%20My%20Profile!&fontSize=30&fontAlign=70&descAlign=80" alt="header"/>
 
 ---
