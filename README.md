@@ -2,16 +2,6 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HwanLee's%20GitHub&fontAlign=50&fontAlignY=40&desc=Backend%20Developer%20%7C%20System%20Programmer&descAlign=50&descAlignY=55&fontSize=40" alt="header"/>
 
-  ## 👋 안녕하세요! 저는 이재환입니다!
-  **컴퓨터 싸이언스**를 중심으로 **AI알고리즘**과 **데이터 엔지니어링** 분야로 성장하고 있습니다.  
-  안정적이고 효율적인 시스템을 구축하며 기술로 세상에 기여하는 것을 목표로 합니다.
-
-  ## 💼 About Me
-  🔭 **알고리즘** 및 **백엔드 서버** 설계에 대한 경험을 쌓고 있습니다. <br>
-  💡 관심 기술: `Java`, `C++`, `Python`, `Docker`, `MySQL`, `System Programming` <br>
-  🧠 공부 중: DevOps 파이프라인 구축, 대용량 트래픽 처리 <br>
-  ✨ 목표: 신뢰성 높은 서비스를 만드는 백엔드 엔지니어 <br>
-
   ## 🛠️ Tech Stack
   
   <h4>Languages</h4>
